@@ -89,7 +89,7 @@ svg {
 
 footer {
   color: var(--footerfontcolor);
-  text-align: center;
+  text-align: right;
   margin-bottom: 0px;
   border-top: solid 1pt;
   height: 30px;
