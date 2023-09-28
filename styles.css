@@ -40,7 +40,7 @@ header {
 }
 
 .headertxt {
-  padding-left: 15px;
+  padding-left: 25px;
   float: left;
   color: var(--logotxtcolor);
 }
@@ -48,7 +48,6 @@ header {
 svg {
   width: 170px;
   height: 130px;
-  
 }
 
 .svg-ellipse {
@@ -111,7 +110,7 @@ footer {
   float: left;
   color: var(--navfontcolor);
   text-decoration: none;
-  padding: 10px 5px;
+  padding: 10px 8px;
 }
 
 .nav a:hover {
@@ -131,7 +130,6 @@ footer {
   margin: auto;
   padding: 10px;
   padding-top: 50px;
-
 }
 
 h2 {
