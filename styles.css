@@ -37,6 +37,7 @@ header {
 
 .headerlogo {
   float: left;
+  margin-right: 10px;
 }
 
 .headerbtn {
