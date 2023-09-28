@@ -19,7 +19,6 @@ body {
   color: #f0AD5F;
   margin-top: 1%;
   min-width: 400px;
-  max-width: 4000px;
   margin-left: 10px;
   margin-right: 10px;
 }
@@ -111,4 +110,11 @@ svg {
 
 .stop2 {
   stop-color: #73c89c;
+}
+
+.wrap {
+  max-width: 1000px;
+  margin: auto;
+  padding: 10px;
+
 }
