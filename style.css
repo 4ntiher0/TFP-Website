@@ -100,3 +100,16 @@
     color: #73c89c;
   }
   
+  svg {
+    width: 180px;
+    height: 130px;
+  }
+  
+  .stop1 {
+    stop-color: #73c89c;
+  }
+  
+  .stop2 {
+    stop-color: #AE5633;
+  }
+  

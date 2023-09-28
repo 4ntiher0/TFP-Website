@@ -99,3 +99,16 @@ footer {
   background-color: #AE5633;
   color: #212A2E;
 }
+
+svg {
+  width: 180px;
+  height: 130px;
+}
+
+.stop1 {
+  stop-color: #AE5633;
+}
+
+.stop2 {
+  stop-color: #73c89c;
+}
